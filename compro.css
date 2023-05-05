@@ -1,0 +1,64 @@
+.bg {
+    width: 1200px;
+    height: 540px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    background:rgb(226, 223, 223);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    /* border: 1px solid rgb(192, 192,192 ); */
+
+
+}
+
+.pcc input  {
+    position: relative;
+    left: 40px;
+    top: 70px;
+    margin-right: 100px;
+    margin-top: 1px;
+    margin-bottom: 30px;
+    /* border: 1px solid rgb(192, 192,192 ); */
+}
+
+.pcc button {
+    position: relative;
+    left: 150px;
+    top: 80px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    /* border: 1px solid rgb(192, 192,192 ); */
+}
+
+.circle {
+
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+    
+    width: 650px;
+    height: 540px;
+    float: right;
+    background-color:rgb(255, 255, 255);
+    
+}
+.wong {
+    position: relative;
+    left: 190px;
+    top: 70px;
+}
+
+.robot {
+    position: relative;
+    bottom: 20px;
+    left: 500px;
+}
+
+.ahh {
+background: rgb(77, 77, 206);
+}
